@@ -1,3 +1,4 @@
+[
 {
 	"Agno": 2002,
 	"Periodo": "Trimestre 1",
@@ -12,3 +13,4 @@
 	"Valor": 2103.3000137805943,
 	"Estado": "Definitivo"
 }
+]

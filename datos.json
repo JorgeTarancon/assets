@@ -1,7 +1,7 @@
 [
 	{"alumno":"Jorge","edad":24,"nota":10},
-	{"alumno":"Pedro","edad":24,"nota":7}
-	{"alumno":"Juan","edad":24,"nota":5}
-	{"alumno":"Gema","edad":24,"nota":6}
+	{"alumno":"Pedro","edad":24,"nota":7},
+	{"alumno":"Juan","edad":24,"nota":5},
+	{"alumno":"Gema","edad":24,"nota":6},
 	{"alumno":"Emilia","edad":24,"nota":9}
 ]

@@ -1,7 +1,0 @@
-[
-    {"pais":"España","poblacion":2400},
-    {"pais":"Alemania","poblacion":1800},
-    {"pais":"Francia","poblacion":2500},
-    {"pais":"Polonia","poblacion":1200},
-    {"pais":"Croacia","poblacion":1000}
-]
